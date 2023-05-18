@@ -1,6 +1,11 @@
-# Shopwise-Vanilla-js
-Shopwise Vanilla js is ecommerce website 
-live url https://mudassirkhan2.github.io/Shopwise-Vanilla-js/index.html
+
+<h1 align="center">
+ Shopwise-Vanilla-js
+  <br>
+</h1>
+<h4 align="center"> Shopwise Vanilla js is ecommerce website </h4>
+
+live url https://mudassirkhan2.github.io/Shopwise-Vanilla-js/
 
 
 desktop view 
